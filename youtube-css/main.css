@@ -62,6 +62,7 @@
   height: 30px;
   width: 30px;
   padding: 5px 0px 0px 6px;
+  cursor: pointer;
 }
 .dots:hover{
   background-color: #E5E5E5;
